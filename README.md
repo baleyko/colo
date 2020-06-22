@@ -1,4 +1,4 @@
-# Colo - keep hosts file updated on your Docker containers start/stop
+# Colo - keep hosts file updated on your containers start/stop
 
 Sometimes, during developments, we have to do routine work such adding/removing of domains associated with our Dockerized applications to/from the hosts file on our host machine. This app allow you to automate this work via assigning of special labels to your Docker containers
 
